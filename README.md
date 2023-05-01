@@ -1,6 +1,6 @@
 # Atualiza Repositório Local
 
-Este script permite atualizar os projetos em sua máquina local que estão hospedados no GitHub. Ele busca por todos os repositórios em uma pasta específica e atualiza as branches `master` e `develop` de cada um.
+Este script permite atualizar os projetos em sua máquina local. Ele busca por todos os repositórios em uma pasta específica e atualiza as branches `master` e `develop` de cada um.
 
 ## Como usar
 
@@ -17,3 +17,8 @@ Isso percorrerá todos os projetos na pasta especificada e atualizará as branch
 ## Observações
 
 - Certifique-se de que você tem acesso aos repositórios que deseja atualizar antes de executar o script.
+
+## Autora: 
+|Nome|
+| -------- |
+|Maria Emília N. Ramos|
