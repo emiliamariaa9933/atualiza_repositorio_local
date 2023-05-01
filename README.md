@@ -18,7 +18,4 @@ Isso percorrerá todos os projetos na pasta especificada e atualizará as branch
 
 - Certifique-se de que você tem acesso aos repositórios que deseja atualizar antes de executar o script.
 
-## Autora: 
-|Nome|
-| -------- |
-|Maria Emília N. Ramos|
+### *Autora: Maria Emília N. Ramos* :heavy_check_mark:
